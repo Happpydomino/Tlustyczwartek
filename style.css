@@ -1,0 +1,25 @@
+body
+{
+background-color: #000000;
+background-image: url("https://www.transparenttextures.com/patterns/food.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+color: fff;
+}
+#Paczek
+{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;;
+   text-align: center; 
+}
+#Napis
+{
+     width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+   text-align: center; 
+    font-size: 30px;
+    font-family: 'Pangolin', cursive;
+}
